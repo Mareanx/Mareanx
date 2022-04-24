@@ -22,6 +22,9 @@
       <a href="https://twitter.com/Mareanxr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
       <a href="https://discord.com/channels/967531015222489118/967531015222489121" target"_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
        <img align "right"  alt="Mari-mari" height="140cm" width"140cm" src="https://media.discordapp.net/attachments/967241020129570869/967244316391137290/Webp.net-gifmaker.gif">
+          
+          
+  ![Snake animation](https://github.com/Mareanx/Mareanx/blob/output/github-contribution-grid-snake.svg)
        
           
           
