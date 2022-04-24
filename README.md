@@ -24,6 +24,7 @@
        <img align "right"  alt="Mari-mari" height="140cm" width"140cm" src="https://media.discordapp.net/attachments/967241020129570869/967244316391137290/Webp.net-gifmaker.gif">
           
           
+  
   ![Snake animation](https://github.com/Mareanx/Mareanx/blob/output/github-contribution-grid-snake.svg)
        
           
