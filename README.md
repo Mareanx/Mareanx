@@ -1,4 +1,4 @@
-##Eae, tranquilo?
+Eae, tranquilo?
 
 - 🌱 Cusando Ciência da Computação no IFMA
 - 📫 Contato: mareanx26@gmail.com
